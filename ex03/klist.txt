@@ -1,0 +1,5 @@
+Credentials cache: API:6F27E006-0F84-403B-AA64-AB9DE4394ACC
+        Principal: fboumell@42.FR
+
+  Issued                Expires               Principal
+Mar 15 11:13:41 2021  Mar 22 11:13:41 2021  krbtgt/42.FR@42.FR
